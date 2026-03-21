@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQu
 
 BOT_TOKEN       = "8275086123:AAFM8iifVbe8cidhE07hoEbQ0svwqvRB8ac"
 ALLOWED_CHAT_ID = -1002307445361
-ALLOWED_THREAD  = 1570
+ALLOWED_THREAD  = 1575
 GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyDTnMjVzYH6utYWodJS2X06ifZTB72HH8o"
 SHEET_URL  = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSzE3yAIP1h8h-uE8eXUtZMQrFy1exAQNpoDRHbNl8pHtRQ5LHPMSVHPj9Bo3S0S37ddiujcbYH6N1t/pub?gid=1477460020&single=true&output=csv"
 
