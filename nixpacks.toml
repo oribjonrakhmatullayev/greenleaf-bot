@@ -1,5 +1,0 @@
-[phases.build]
-cmds = ["pip install python-telegram-bot requests"]
-
-[start]
-cmd = "python3 main.py"
